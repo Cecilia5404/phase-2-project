@@ -14,9 +14,9 @@ Requirements
 
 *Access to internet,computer or smart phone
 
-live-link
+live-link:https://github.com/Cecilia5404/phase-2-project
 
-Link:
+Link:https://github.com/Cecilia5404/phase-2-project
 
 Installation
 
