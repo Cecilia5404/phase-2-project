@@ -1,4 +1,4 @@
-import { useReducer } from "react";
+import { useEffect, useReducer } from "react";
 import axios from "axios";
 import ShowsContext from "./showsContext";
 import ShowsReducer from "./showsReducer";
@@ -16,6 +16,9 @@ const ShowsState = (props) => {
     loading: false,
   };
 
+useEffect(()=>{
+  fetch("http://localhost:3000/post/5")
+})
   const [state, dispatch] = useReducer(ShowsReducer, initialState);
 
   const searchShows = async (searchTerm) => {
