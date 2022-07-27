@@ -1,5 +1,5 @@
 :root {
-  --dark-color: #171717;
+  --dark-color: #d6c8c8;
   --secondary-color: #2fcf2c;
   --offwhite-color: #f4f4f4;
 }
@@ -197,6 +197,10 @@ img {
 
 .singleshow__info p {
   margin: 1rem 0;
+  color: #d6c8c8;
+  font-size: 20px;
+  
+
 }
 
 .singleshow__genre {
@@ -250,7 +254,7 @@ h4{
   font-weight: bold;
   font-style: normal;
   margin-bottom: 15px;
-  color: #000000;
+  color: #ffffff;
 
 }
 button{
