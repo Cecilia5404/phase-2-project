@@ -25,7 +25,7 @@ const App = () => {
         <Routes>
          
           
-          <Route exact path="/home" element={<HomePage/>} />
+          <Route exact path="/" element={<HomePage/>} />
           <Route exact path="*" element={<FourOhFour/>} />
           
           <Route exact path="/singleshow/:id" element={<SinglePage/>} />
