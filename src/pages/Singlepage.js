@@ -37,7 +37,7 @@ const Singlepage = ({ match }) => {
             src={
               singleShow.image
                 ? singleShow.image.medium
-                : "https://www.publicdomainpictures.net/pictures/280000/velka/not-found-image-15383864787lu.jpg"
+                : "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201806/review-race3-main.jpeg?8pWF0XJmDoXuZ.n9BxLHYdhduykmdi_8&size=770:433"
             }
             alt={singleShow.name}
           />
