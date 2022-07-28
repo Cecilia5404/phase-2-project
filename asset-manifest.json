@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/phase-2-project%20/static/css/main.0e93d5c0.css",
-    "main.js": "/phase-2-project%20/static/js/main.ad3c3600.js",
-    "static/js/787.2b35ebb1.chunk.js": "/phase-2-project%20/static/js/787.2b35ebb1.chunk.js",
-    "static/media/review-race-main.webp": "/phase-2-project%20/static/media/review-race-main.f94e02976e45af3efc3c.webp",
-    "static/media/spinner.gif": "/phase-2-project%20/static/media/spinner.dbb22bcf8555073ea29a.gif",
-    "index.html": "/phase-2-project%20/index.html",
-    "main.0e93d5c0.css.map": "/phase-2-project%20/static/css/main.0e93d5c0.css.map",
-    "main.ad3c3600.js.map": "/phase-2-project%20/static/js/main.ad3c3600.js.map",
-    "787.2b35ebb1.chunk.js.map": "/phase-2-project%20/static/js/787.2b35ebb1.chunk.js.map"
+    "main.css": "/phase-2-project-App/static/css/main.81855032.css",
+    "main.js": "/phase-2-project-App/static/js/main.c3444cd0.js",
+    "static/js/787.2b35ebb1.chunk.js": "/phase-2-project-App/static/js/787.2b35ebb1.chunk.js",
+    "static/media/review-race-main.webp": "/phase-2-project-App/static/media/review-race-main.f94e02976e45af3efc3c.webp",
+    "static/media/spinner.gif": "/phase-2-project-App/static/media/spinner.dbb22bcf8555073ea29a.gif",
+    "index.html": "/phase-2-project-App/index.html",
+    "main.81855032.css.map": "/phase-2-project-App/static/css/main.81855032.css.map",
+    "main.c3444cd0.js.map": "/phase-2-project-App/static/js/main.c3444cd0.js.map",
+    "787.2b35ebb1.chunk.js.map": "/phase-2-project-App/static/js/787.2b35ebb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e93d5c0.css",
-    "static/js/main.ad3c3600.js"
+    "static/css/main.81855032.css",
+    "static/js/main.c3444cd0.js"
   ]
 }
