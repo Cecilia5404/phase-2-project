@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
@@ -8,13 +8,15 @@ import reportWebVitals from "./reportWebVitals";
 import ShowsState from "./context/shows/ShowsState";
 import AlertsState from "./context/alerts/AlertsState";
 
-ReactDOM.render(
-  <ShowsState>
-    <AlertsState>
-      <App />
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  <React.StrictMode>
+    <ShowsState>
+   <AlertsState>
+    <App />
     </AlertsState>
-  </ShowsState>,
-  document.getElementById("root")
+   </ShowsState>,
+  </React.StrictMode>
 );
 
 reportWebVitals();

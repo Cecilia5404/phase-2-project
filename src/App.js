@@ -13,7 +13,7 @@ import Navbar from "./components/Navbar";
 import HomePage from "./pages/Homepage";
 
 import SinglePage from "./pages/Singlepage";
-import FourOhFour from "./pages/404";
+// import FourOhFour from "./pages/404";
 
 
 const App = () => {
@@ -26,7 +26,7 @@ const App = () => {
          
           
           <Route exact path="/" element={<HomePage/>} />
-          <Route exact path="*" element={<FourOhFour/>} />
+          {/* <Route exact path="*" element={<FourOhFour/>} /> */}
           
           <Route exact path="/singleshow/:id" element={<SinglePage/>} />
           
