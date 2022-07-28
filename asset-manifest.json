@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/phase-2-project%20/static/css/main.0e93d5c0.css",
+    "main.js": "/phase-2-project%20/static/js/main.08ca12a8.js",
+    "static/js/787.2b35ebb1.chunk.js": "/phase-2-project%20/static/js/787.2b35ebb1.chunk.js",
+    "static/media/review-race-main.webp": "/phase-2-project%20/static/media/review-race-main.f94e02976e45af3efc3c.webp",
+    "static/media/spinner.gif": "/phase-2-project%20/static/media/spinner.dbb22bcf8555073ea29a.gif",
+    "index.html": "/phase-2-project%20/index.html",
+    "main.0e93d5c0.css.map": "/phase-2-project%20/static/css/main.0e93d5c0.css.map",
+    "main.08ca12a8.js.map": "/phase-2-project%20/static/js/main.08ca12a8.js.map",
+    "787.2b35ebb1.chunk.js.map": "/phase-2-project%20/static/js/787.2b35ebb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e93d5c0.css",
+    "static/js/main.08ca12a8.js"
+  ]
+}
