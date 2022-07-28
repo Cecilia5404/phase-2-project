@@ -14,9 +14,9 @@ Requirements
 
 *Access to internet,computer or smart phone
 
-live-link:https://github.com/Cecilia5404/phase-2-project
+github link:https://github.com/Cecilia5404/phase-2-project
 
-Link:https://github.com/Cecilia5404/phase-2-project
+Live-link:
 
 Installation
 
@@ -28,7 +28,7 @@ For one to use the website, you will have to git clone the repository link into 
     
 Technology-Used
 
-JavaScript React and cascading style sheet were employed during the structuring and styling of the app.
+JavaScript React,Json,context API and cascading style sheet were employed during the structuring and styling of the app.
 
 License
 
